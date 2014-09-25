@@ -1,0 +1,26 @@
+>header3 -gleich lange Sequenzen
+GACGGATTATG
+>header4 -gleich lange Sequenzen
+GATCGGAATAG
+
+>header1 -unterschiedl. lange Sequenzen
+GGGTGATTAGC
+>header2 -unterschiedl. lange Sequenzen
+GCTGATATAGCT
+
+>header5 -Sequenzen die nur wenig matchen
+CATGCTAGCTGACTGCTG
+>header6 -Sequenezn die nur wenig matchen
+CATGTAGCTGCTAGCTAGCT
+
+>extremFall 1 --> diesen Fall testen mit gap -1 und file: score_mis-5_NeedlW.test (mismatch -5)
+AAAAAAAA
+>extremFall 2
+GGGGGCCC
+
+
+
+
+
+
+
